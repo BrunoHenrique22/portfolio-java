@@ -1,2 +1,2 @@
 # portfolio-java
-Um lugar para colocar todas os projetos que estão sendo feitos em Java
+Um lugar para colocar tods os projetos que estão sendo feitos em Java
