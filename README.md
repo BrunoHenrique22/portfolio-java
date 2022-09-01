@@ -9,7 +9,10 @@ Bruno Henrique
 
 ## Captura de Imagens
 ![]()
-![tela](https://github.com/BrunoHenrique22/portfolio-java/blob/main/imagem/wallpaperflare.com_wallpaper%20(1).jpg)
+![tela](https://github.com/BrunoHenrique22/portfolio-java/blob/main/Imagens/Portifolio%20Completo.png)
+![tela](https://github.com/BrunoHenrique22/portfolio-java/blob/main/Imagens/App%20carta.png)
+![tela](https://github.com/BrunoHenrique22/portfolio-java/blob/main/Imagens/Etanol.png)
+
 
 ## Desmonstração do Projeto  (Instruções para Instalação)
 - É necessário ter o Java Versão 17 ou Superior Instalado.
